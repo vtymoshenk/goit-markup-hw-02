@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   background-color: #fff;
-  color: #2e2f42;
+  color: #434455;
 }
 ul,
 ol {
@@ -27,6 +27,9 @@ p {
   letter-spacing: 0.02em;
   color: #434455;
 }
+address {
+  font-style: normal;
+}
 
 /* #region Header */
 .header {
@@ -36,7 +39,7 @@ p {
   font-weight: 700;
   font-size: 18px;
 
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -111,13 +114,15 @@ p {
   font-weight: 700;
   font-size: 36px;
 
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 .teams {
 }
 .teams-item {
+  background-color: #ffffff;
 }
 .teams-name {
   text-align: center;
@@ -141,6 +146,8 @@ p {
 .portfolio-item {
 }
 .portfolio-titels {
+  text-transform: capitalize;
+  line-height: 1.11;
 }
 .portfolio-text {
 }
