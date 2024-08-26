@@ -10,6 +10,7 @@ ol {
 
 a {
   text-decoration: none;
+  color: #2e2f42;
 }
 button {
   cursor: pointer;
@@ -45,7 +46,6 @@ address {
   color: #4d5ae5;
 }
 .logo-span {
-  color: #2e2f42;
 }
 .nav {
 }
@@ -54,6 +54,7 @@ address {
 .menu-item {
 }
 .menu-link {
+  color: #434455;
   font-weight: 500;
   font-size: 16px;
 
@@ -102,6 +103,7 @@ address {
 .features-item {
 }
 .features-title {
+  line-height: 1.07;
 }
 .features-text {
 }
@@ -113,6 +115,7 @@ address {
 .section-two-title {
   font-weight: 700;
   font-size: 36px;
+  color: #2e2f42;
 
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -134,7 +137,7 @@ address {
 /* #region Section-tree */
 .Section-three {
 }
-.Section-three-title {
+.Three-title {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
