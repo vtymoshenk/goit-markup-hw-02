@@ -135,19 +135,21 @@ address {
 .Section-three {
 }
 .Section-three-title {
+  color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 .portfolio {
 }
 .portfolio-item {
 }
 .portfolio-titels {
-  text-transform: capitalize;
-  line-height: 1.11;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 .portfolio-text {
 }
